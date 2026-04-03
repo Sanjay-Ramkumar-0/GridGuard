@@ -1,0 +1,18 @@
+{
+"generators": [
+    {"id": "G1", "capacity": 100}
+],
+"substations": [
+    {"id": "S1"},
+    {"id": "S2"}
+],
+"loads": [
+    {"id": "L1", "demand": 60},
+    {"id": "L2", "demand": 50}
+
+],
+"lines": [
+    {"from": "G1", "to": "S1", "capacity": 80},
+    {"from": "S1", "to": "L1", "capacity": 40}
+]
+}
