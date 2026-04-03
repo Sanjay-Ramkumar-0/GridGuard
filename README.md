@@ -1,4 +1,4 @@
-# ⚡ GridGuard
+# GridGuard
 
 **GridGuard** is a next-generation power infrastructure validation and optimization platform that detects design-level failures in electrical grid architectures **before deployment**.
 
@@ -6,7 +6,7 @@ It empowers engineers, planners, utility companies, and researchers to identify 
 
 ---
 
-## 🎯 The Problem
+## The Problem
 
 Modern power grids are becoming increasingly complex due to renewable integration, urbanization, and electrification. Yet most failures originate from **design-phase inefficiencies**:
 
@@ -24,7 +24,7 @@ These issues are usually discovered **only after deployment**, resulting in:
 
 ---
 
-## 💡 The Solution
+## The Solution
 
 **GridGuard** shifts validation from post-deployment firefighting to **early-stage intelligent design**.
 
@@ -34,22 +34,22 @@ It models the entire power grid as a directed graph, performs comprehensive rule
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-### 🔍 Validation Engine
+### Validation Engine
 - Real-time supply vs demand balancing  
 - Full connectivity & reachability validation  
 - Line capacity (overload) detection  
 - Redundancy & N-1 contingency checks  
 - Bottleneck & critical path identification  
 
-### 💡 Intelligent Suggestions
+### Intelligent Suggestions
 - Automatic capacity upgrade recommendations  
 - Network restructuring proposals  
 - Load redistribution strategies  
 - Prioritized fix list with estimated impact  
 
-### 📊 Interactive Visualization
+### Interactive Visualization
 - Beautiful graph-based grid representation  
 - Color-coded error highlighting (🔴 overloads, ⚠️ warnings, 🟢 healthy)  
 - Clickable nodes & edges with detailed inspection  
@@ -58,7 +58,7 @@ It models the entire power grid as a directed graph, performs comprehensive rule
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 GridGuard treats the power grid as a **directed graph**:
 
@@ -75,20 +75,20 @@ All processing happens instantly in the browser/backend with zero external depen
 
 ---
 
-## 🎥 Demo Workflow
+## Demo Workflow
 
 The live demo showcases a complete validation cycle:
 
-### ❌ **Broken Grid** (`broken.json`)
+### **Broken Grid** (`broken.json`)
 - Multiple critical failures  
 - Severe overloads & disconnections  
 - Supply deficit  
 
-### 🟡 **Fixed Grid** (`fixed.json`)
+### **Fixed Grid** (`fixed.json`)
 - Connectivity restored  
 - Overloads significantly reduced  
 
-### ✅ **Optimized Grid** (`optimized.json`)
+### **Optimized Grid** (`optimized.json`)
 - Perfectly balanced system  
 - Full redundancy achieved  
 - Optimal performance & stability  
@@ -97,7 +97,7 @@ Try all three JSON files in the interactive demo to see GridGuard in action.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 GridGuard/
@@ -116,7 +116,7 @@ GridGuard/
 
 ---
 
-## ⚙️ Installation & Quick Start
+## Installation & Quick Start
 
 ```bash
 # 1. Clone the repository
@@ -136,7 +136,7 @@ Upload any grid JSON or use the built-in demo files to start validating instantl
 
 ---
 
-## 🌍 Use Cases
+## Use Cases
 
 - Smart city & renewable energy infrastructure planning  
 - Utility-scale power grid design validation  
@@ -146,7 +146,7 @@ Upload any grid JSON or use the built-in demo files to start validating instantl
 
 ---
 
-## 🔥 Why GridGuard Stands Out
+## Why GridGuard Stands Out
 
 | Feature                      | Traditional Tools      | GridGuard                  |
 |-----------------------------|------------------------|----------------------------|
@@ -158,7 +158,7 @@ Upload any grid JSON or use the built-in demo files to start validating instantl
 
 ---
 
-## 🚀 Future Roadmap
+## Future Roadmap
 
 - AI-powered optimization engine  
 - Real-time integration with SCADA/EMS systems  
@@ -169,7 +169,7 @@ Upload any grid JSON or use the built-in demo files to start validating instantl
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Sanjay Ramkumar**  
  
@@ -179,7 +179,7 @@ Upload any grid JSON or use the built-in demo files to start validating instantl
 
 ---
 
-## 📌 Vision
+## Vision
 
 To make intelligent, failure-proof infrastructure design the **standard** — not the exception.  
 
