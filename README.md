@@ -172,8 +172,7 @@ Upload any grid JSON or use the built-in demo files to start validating instantl
 ## 👨‍💻 Author
 
 **Sanjay Ramkumar**  
-*Electrical Engineering | Power Systems | Infrastructure Innovation*  
-Chennai, Tamil Nadu, India  
+ 
 
 📧 ss.ramsanjay@gmail.com  
 🔗 [LinkedIn](www.linkedin.com/in/sanjay-ramkumar-5b954031b) | [GitHub]([https://github.com/yourusername](https://github.com/Sanjay-Ramkumar-0))
